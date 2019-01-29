@@ -1,8 +1,10 @@
 <template>
     <section>
-        <h1>Logo</h1>
+        
 
         <header class="header">
+
+            <h1>Logo</h1>
         
             <ul class="nav-items">
 
