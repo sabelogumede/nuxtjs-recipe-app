@@ -1,17 +1,6 @@
 <template>
   <div>
-    <header>
-      <h1>Logo</h1>
-
-      <nuxt-link to="/">Intro</nuxt-link>
-      <nuxt-link to="/recipe">Recipe</nuxt-link>
-      <nuxt-link to="/gallery">Gallery</nuxt-link>
-      <nuxt-link to="/contact">Contact</nuxt-link>
-    </header>
     <nuxt />
-    <footer>
-      footer section
-    </footer>
   </div>
 </template>
 
