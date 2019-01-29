@@ -1,30 +1,21 @@
 <template>
 
   <section class="container">
-    <Header />
 
     <h1>Hello I am a first view nuxt app</h1>
 
-    <Footer />
   </section>
 </template>
 
 <script>
-import Header from '~/components/Header.vue'
-import Footer from '~/components/Footer.vue'
 
-export default {
-  components: {
-    Header,
-    Footer
-  }
-}
+
 </script>
 
 <style>
 .container {
   margin: 0 auto;
-  min-height: 100vh;
+  /* min-height: 100vh; */
   /* display: flex;
   justify-content: center;
   align-items: center;
